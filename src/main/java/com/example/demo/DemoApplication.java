@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@GetMapping("/msg")
 	public String get(){
-		return "Hello";
+		return "Hello version2";
 	}
 
 }
